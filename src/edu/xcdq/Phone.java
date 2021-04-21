@@ -48,7 +48,5 @@ public class Phone {
         System.out.println("手机即将锁屏");
     }
     //方法的复写
-    public String toString(){return
-    }
 }
 
